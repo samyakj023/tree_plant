@@ -1,14 +1,3 @@
-# Charity Donation Website
-
-**live demo: [https://donation-website-wine.vercel.app/](https://donation-website-wine.vercel.app/)**
-
----
-
-### Made by [Ankur Goswami](https://www.linkedin.com/in/ankur-goswami-323767233/)
-
----
-
-## Websites's Screen Shot
 
 
 
